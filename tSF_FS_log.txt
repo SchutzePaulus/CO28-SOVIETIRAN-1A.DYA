@@ -1,0 +1,12 @@
+"####### tSF File Sweeper Engaged #######" 
+Mission directory:     C:\Users\Schutze_Paulus\Documents\Arma 3\mpmissions\CO28-SOVIETIRAN-1A.DYA\ 
+Mission fodler name:   CO28-SOVIETIRAN-1A 
+Removing tSF Helpers 
+Removing DynAI Helpers 
+Removing unused tSF Modules 
+    Folder is not used: Removing AirborneSupport 
+    Folder is not used: Removing Interactives 
+    Folder is not used: Removing EditorVehicleCrew 
+    Folder is not used: Removing EditorUnitBehavior 
+    Folder is not used: Removing EditorRadioSettings 
+Done! 
